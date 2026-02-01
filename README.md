@@ -32,6 +32,5 @@ Images were uploaded from the project’s `data/` folder directly into the Colab
 ## 📤 Output
 - Convolved images saved in the notebook environment  
 - Timing results for CPU, CUDA, and Python+CUDA  
-- Demonstrated speedups of **50×–170×** depending on image and filter size  
+- Demonstrated speedups of **50×–170×** depending on image and filter size
 
-## 📁 Project Structure
