@@ -1,4 +1,4 @@
-# ⭐ GPU-Accelerated Image Convolution Using CUDA and Python
+# ⚡ GPU-Accelerated Image Convolution Using CUDA and Python
 
 This project implements high-performance 2D image convolution using three backends:
 1. **CPU (C implementation)**
